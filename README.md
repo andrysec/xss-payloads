@@ -2747,17 +2747,6 @@ foo<script>alert(1)</script>
 
 * [XSS Cheat Sheet](https://leanpub.com/xss)
 
-
-### Cloning an Existing Repository ( Clone with HTTPS )
-```
-root@ismailtasdelen:~# git clone https://github.com/ismailtasdelen/xss-payload-list.git
-```
-
-### Cloning an Existing Repository ( Clone with SSH )
-```
-root@ismailtasdelen:~# git clone git@github.com:ismailtasdelen/xss-payload-list.git
-```
-
 ### Published Website :
 
 ##### Kitploit - https://www.kitploit.com/2018/05/xss-payload-list-cross-site-scripting.html
@@ -2768,8 +2757,8 @@ Support the authors:
 
 #### Paypal:
 
-https://paypal.me/ismailtsdln
+https://paypal.me/andrystreamer
 
 #### LiberaPay:
 
-<noscript><a href="https://liberapay.com/ismailtasdelen/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<noscript><a href="https://liberapay.com/andrysec17/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
